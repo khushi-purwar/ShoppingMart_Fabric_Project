@@ -1,18 +1,18 @@
 [
     {
         "source_url" : "refs/heads/master/StructuredData/Orders_Data.csv",
-        "sink_folder" : "ShoppingMartBronze",
+        "sink_folder" : "ShoppingMartBronze/StructuredFiles",
         "sink_file" : "Orders.csv"
     },
     {
          "source_url" : "refs/heads/master/StructuredData/customers.csv",
-        "sink_folder" : "ShoppingMartBronze",
+        "sink_folder" : "ShoppingMartBronze/StructuredFiles",
         "sink_file" : "Customers.csv"
 
     },
     {
         "source_url" : "refs/heads/master/StructuredData/products.csv",
-        "sink_folder" : "ShoppingMartBronze",
+        "sink_folder" : "ShoppingMartBronze/StructuredFiles",
         "sink_file" : "Products.csv"
 
     }
