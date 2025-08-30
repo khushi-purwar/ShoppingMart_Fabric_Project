@@ -12,7 +12,7 @@
     },
     {
         "source_url" : "refs/heads/master/UnStructuredData/web_logs.json",
-        "sink_folder" : "ShoppingMartBronze/",
+        "sink_folder" : "ShoppingMartBronze/UnStructuredFiles",
         "sink_file" : "WebLogs.json"
 
     }
